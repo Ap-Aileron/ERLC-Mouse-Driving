@@ -1,0 +1,2 @@
+- To run, double click 'main.py' or 'run_script.bat'
+- We are not responsible for any moderation done to your Roblox account.
